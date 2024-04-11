@@ -1,2 +1,9 @@
 # FMXT – Financial Markets eXchange Trading Library
-exchange trading library for financial markets 
+
+A go library for cryptocurrency and forex market trading with support for metatrader 5
+
+## Install
+
+```bash
+  go get github.com/FortesenseLabs/fmxt
+```
